@@ -1,4 +1,4 @@
 # gw2-app releases
 
-This repository hosts Velopack release assets for Gw2App.
+Here are the relases of the Repo Gw2App created by CptJonas.
 
