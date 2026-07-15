@@ -2,7 +2,7 @@
 
 A free Windows companion app for **Guild Wars 2**. It pulls your account data straight from the official Guild Wars 2 API and puts your dailies, wallet, Wizard's Vault progress, trading post prices, and crafting profits in one place — so you don't have to have five browser tabs open every time you log in.
 
-Made by **CptJonas** (in-game: `CptJonas.9012`).
+Made by **CptChikuChan** (in-game: `CptJonas.9012`).
 
 > **Unofficial fan project.** GW2 App is not made, endorsed, or supported by ArenaNet. It only *reads* your account data through the official public API — it can't log in as you, trade, or change anything on your account.
 
@@ -115,4 +115,4 @@ Found a bug, or something confusing? Please open an issue on this repo's [**Issu
 
 ---
 
-Made with ❤️ by **CptJonas** (`CptJonas.9012`).
+Created by **CptChikuChan** (`CptJonas.9012`).
